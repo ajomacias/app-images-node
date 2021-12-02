@@ -1,0 +1,7 @@
+####
+POST  http://localhost:4000/images/post
+Content-Type: application/json
+
+####
+GET  http://localhost:4000/images
+Content-Type: application/json
